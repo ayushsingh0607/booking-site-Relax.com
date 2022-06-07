@@ -1,0 +1,27 @@
+.app__features{
+    width:100%;
+    max-width:1024px;
+    display:flex;
+    justify-content: space-between;
+    gap:20px;
+    z-index: 1;
+}
+
+.app__features-img{
+    width:100%;
+    object-fit: cover;
+}
+
+.app__features-items{
+    position:relative;
+    color:white;
+    border-radius: 10px;
+    overflow:hidden;
+    height:250px;
+}
+
+.app__features-title{
+    position:absolute;
+    bottom:20px;
+    left:20px;
+}

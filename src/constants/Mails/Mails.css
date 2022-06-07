@@ -1,0 +1,40 @@
+.app__mails{
+    width: 100%;
+    max-width: 1024px;
+    border-radius: 12px;
+    margin-top: 50px;
+    background: #003580;
+    color:white;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:20px;
+    padding:50px;
+    
+}
+
+.app__mails-input{
+    border:3px solid #DCCA87;
+    border-radius: 8px;
+}
+
+.app__mails-input input{
+    border:none;
+    border-radius: 5px;
+    width:320px;
+    height:30px;
+    padding:10px;
+    margin-right: 10px;
+}
+
+.app__mails-input button{
+    border:none;
+    border-radius: 5px;
+    height:50px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.app__mails-input button:hover{
+    background: #DCCA87;
+}

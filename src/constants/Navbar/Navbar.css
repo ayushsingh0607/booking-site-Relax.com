@@ -1,0 +1,28 @@
+.app__navbar{
+    height:50px;
+    background-color: #003580;
+    display:flex;
+    justify-content:center;
+}
+
+
+.app__navbar-head{
+   width:100%;
+   max-width:1024px;
+   display:flex;
+   justify-content: space-between; 
+   align-items: center;
+   color:aliceblue
+    
+}
+.custom_button{
+    margin-left:20px;
+    border:none;
+    color: #003580;
+    border-radius: 5px;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    cursor:pointer;
+    padding:5px 10px;
+}
