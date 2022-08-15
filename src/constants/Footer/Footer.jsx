@@ -47,7 +47,7 @@ const Footer = () => {
             </ul>
 
         </div>
-        <div clasName='footer-text' style={{marginLeft:'27rem'}}>Copyright @ 2022 Relax.com</div>
+        <div clasName='footer-text' style={{marginLeft:'27rem',marginBottom: '3rem'}}>Copyright @ 2022 Relax.com</div>
     </div>
   )
 }
